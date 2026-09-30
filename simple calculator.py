@@ -13,9 +13,7 @@ Number1=int(input("plase enter the first number" ))
 
 Number2=int(input("plase enter the second number" ))
 
-print(f"{Number1}+{Number2}={Number1+Number2}")
+operator=input("enter your operation(+,-,*,/): '")
+if operator==
 
-print(f"{Number1}-{Number2}={Number1-Number2}")
-print(f"{Number1}*{Number2}={Number1*Number2}")
 
-print(f"{Number1}/{Number2}={Number1/Number2}")
